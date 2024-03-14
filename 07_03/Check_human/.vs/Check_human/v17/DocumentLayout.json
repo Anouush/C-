@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\$7AK200-CUK7ORU7P3D6\\Desktop\\Nueva carpeta\\Check_human\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8BC1C55E-678A-4896-AA6C-57000443FDE1}|Check_human.vcxproj|C:\\Users\\$7AK200-CUK7ORU7P3D6\\Desktop\\Nueva carpeta\\Check_human\\Check_human.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8BC1C55E-678A-4896-AA6C-57000443FDE1}|Check_human.vcxproj|solutionrelative:Check_human.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Check_human.cpp",
+              "DocumentMoniker": "C:\\Users\\$7AK200-CUK7ORU7P3D6\\Desktop\\Nueva carpeta\\Check_human\\Check_human.cpp",
+              "RelativeDocumentMoniker": "Check_human.cpp",
+              "ToolTip": "C:\\Users\\$7AK200-CUK7ORU7P3D6\\Desktop\\Nueva carpeta\\Check_human\\Check_human.cpp",
+              "RelativeToolTip": "Check_human.cpp",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAmwBwAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-07T18:58:22.754Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

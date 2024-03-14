@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\$7AK200-CUK7ORU7P3D6\\Desktop\\Nueva carpeta\\Nombre_usuario\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{86C1B128-D337-48E2-A9F9-5325FC27983E}|Nombre_usuario.vcxproj|C:\\Users\\$7AK200-CUK7ORU7P3D6\\Desktop\\Nueva carpeta\\Nombre_usuario\\Nombre_usuario.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{86C1B128-D337-48E2-A9F9-5325FC27983E}|Nombre_usuario.vcxproj|solutionrelative:Nombre_usuario.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Nombre_usuario.cpp",
+              "DocumentMoniker": "C:\\Users\\$7AK200-CUK7ORU7P3D6\\Desktop\\Nueva carpeta\\Nombre_usuario\\Nombre_usuario.cpp",
+              "RelativeDocumentMoniker": "Nombre_usuario.cpp",
+              "ToolTip": "C:\\Users\\$7AK200-CUK7ORU7P3D6\\Desktop\\Nueva carpeta\\Nombre_usuario\\Nombre_usuario.cpp",
+              "RelativeToolTip": "Nombre_usuario.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-07T18:23:08.531Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
