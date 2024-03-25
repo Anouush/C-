@@ -1,0 +1,3 @@
+C:\Users\$7AK200-CUK7ORU7P3D6\Desktop\Curos C++ Nastor\Projectifhuman\Projectifhuman\x64\Debug\Projectifhuman.vcxproj.AssemblyReference.cache
+C:\Users\$7AK200-CUK7ORU7P3D6\Desktop\Curos C++ Nastor\Projectifhuman\Projectifhuman\x64\Debug\Projectifhuman.MyForm.resources
+C:\Users\$7AK200-CUK7ORU7P3D6\Desktop\Curos C++ Nastor\Projectifhuman\Projectifhuman\x64\Debug\Projectifhuman.vcxproj.GenerateResource.cache

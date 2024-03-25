@@ -1,0 +1,4 @@
+﻿  MyForm.cpp
+C:\Users\$7AK200-CUK7ORU7P3D6\Desktop\Curos C++ Nastor\secondform\MyForm.cpp(7,1): warning C4829: Parámetros posiblemente incorrectos para la función main. Utilice 'int main(Platform::Array<Platform::String^>^ argv)'
+  MyForm.obj : se encontró un módulo MSIL; vinculación incremental deshabilitada para MSIL; ejecutando vínculo completo
+  secondform.vcxproj -> C:\Users\$7AK200-CUK7ORU7P3D6\Desktop\Curos C++ Nastor\secondform\x64\Debug\secondform.exe

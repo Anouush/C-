@@ -1,0 +1,3 @@
+C:\Users\$7AK200-CUK7ORU7P3D6\Desktop\Curos C++ Nastor\secondform\secondform\x64\Debug\secondform.vcxproj.AssemblyReference.cache
+C:\Users\$7AK200-CUK7ORU7P3D6\Desktop\Curos C++ Nastor\secondform\secondform\x64\Debug\secondform.MyForm.resources
+C:\Users\$7AK200-CUK7ORU7P3D6\Desktop\Curos C++ Nastor\secondform\secondform\x64\Debug\secondform.vcxproj.GenerateResource.cache

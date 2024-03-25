@@ -1,0 +1,4 @@
+C:\Users\$7AK200-CUK7ORU7P3D6\Desktop\Curos C++ Nastor\Projectventanas\Projectventanas\x64\Debug\Projectventanas.vcxproj.AssemblyReference.cache
+C:\Users\$7AK200-CUK7ORU7P3D6\Desktop\Curos C++ Nastor\Projectventanas\Projectventanas\x64\Debug\Projectventanas.Contenido.resources
+C:\Users\$7AK200-CUK7ORU7P3D6\Desktop\Curos C++ Nastor\Projectventanas\Projectventanas\x64\Debug\Projectventanas.MyForm.resources
+C:\Users\$7AK200-CUK7ORU7P3D6\Desktop\Curos C++ Nastor\Projectventanas\Projectventanas\x64\Debug\Projectventanas.vcxproj.GenerateResource.cache

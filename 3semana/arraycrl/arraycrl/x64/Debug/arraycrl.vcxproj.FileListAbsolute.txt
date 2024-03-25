@@ -1,0 +1,3 @@
+C:\Users\$7AK200-CUK7ORU7P3D6\Desktop\Curos C++ Nastor\arraycrl\arraycrl\x64\Debug\arraycrl.vcxproj.AssemblyReference.cache
+C:\Users\$7AK200-CUK7ORU7P3D6\Desktop\Curos C++ Nastor\arraycrl\arraycrl\x64\Debug\arraycrl.MyForm.resources
+C:\Users\$7AK200-CUK7ORU7P3D6\Desktop\Curos C++ Nastor\arraycrl\arraycrl\x64\Debug\arraycrl.vcxproj.GenerateResource.cache
